@@ -1,0 +1,17 @@
+{
+  "type": "advancement",
+  "advancement": "lowry_bingo:golems/summoned_snow_golem",
+  "display": {
+    "name": {
+      "text": "Snow Golem"
+    },
+    "lore": [
+      {
+        "text": "Summon a Snow Golem"
+      }
+    ],
+    "image": "lowry_bingo:golems/summon_snow_golem_icon",
+    "decoration": "ADVANCEMENT"
+  },
+  "conflictsWith": []
+}

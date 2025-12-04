@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Disables Natures Compass and Explorers Compass crafting recipes",
+    "min_format": 88,
+    "max_format": 88
+  }
+}

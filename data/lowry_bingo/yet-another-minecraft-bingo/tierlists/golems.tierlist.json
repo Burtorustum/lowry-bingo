@@ -1,0 +1,13 @@
+{
+  "S": [],
+  "A": [],
+  "B": [
+    "lowry_bingo:golems/summon_iron_golem"
+  ],
+  "C": [
+    "lowry_bingo:golems/summon_copper_golem",
+    "lowry_bingo:golems/summon_snow_golem"
+  ],
+  "D": [],
+  "groups": []
+}

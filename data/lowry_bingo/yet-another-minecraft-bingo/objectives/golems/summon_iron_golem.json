@@ -1,0 +1,17 @@
+{
+  "type": "advancement",
+  "advancement": "lowry_bingo:golems/summoned_iron_golem",
+  "display": {
+    "name": {
+      "text": "Iron Golem"
+    },
+    "lore": [
+      {
+        "text": "Summon an Iron Golem"
+      }
+    ],
+    "image": "lowry_bingo:golems/summon_iron_golem_icon",
+    "decoration": "ADVANCEMENT"
+  },
+  "conflictsWith": []
+}

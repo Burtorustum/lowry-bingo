@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "summoned_snow_golem": {
+      "trigger": "minecraft:summoned_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:snow_golem"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "summoned_snow_golem"
+    ]
+  ]
+}
