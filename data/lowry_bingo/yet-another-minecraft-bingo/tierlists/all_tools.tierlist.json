@@ -1,0 +1,15 @@
+{
+  "S": [],
+  "A": [
+    "lowry_bingo:all_tools/all_axes",
+    "lowry_bingo:all_tools/all_pickaxes",
+    "lowry_bingo:all_tools/all_swords",
+    "lowry_bingo:all_tools/all_hoes"
+  ],
+  "B": [
+    "lowry_bingo:all_tools/all_shovels"
+  ],
+  "C": [],
+  "D": [],
+  "groups": []
+}
