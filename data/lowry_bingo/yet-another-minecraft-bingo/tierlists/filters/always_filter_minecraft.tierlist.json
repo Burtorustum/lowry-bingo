@@ -1,0 +1,28 @@
+{
+  "S": [
+    "minecraft:ancient_debris",
+    "minecraft:popped_chorus_fruit"
+  ],
+  "A": [
+    "minecraft:adventure/sniper_duel",
+    "minecraft:adventure/summon_iron_golem",
+    "minecraft:husbandry/obtain_netherite_hoe"
+  ],
+  "B": [
+    "minecraft:nether/netherite_armor",
+    "minecraft:nether/obtain_ancient_debris",
+    "minecraft:nether/get_wither_skull",
+    "minecraft:nether/summon_wither",
+    "minecraft:nether/ride_strider_in_overworld_lava"
+  ],
+  "C": [
+    "minecraft:end/enter_end_gateway",
+    "minecraft:end/find_end_city",
+    "minecraft:end/dragon_egg",
+    "minecraft:end/respawn_dragon",
+    "minecraft:end/elytra",
+    "minecraft:end/levitate"
+  ],
+  "D": [],
+  "groups": []
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:sculk",
+    "minecraft:dripstone_block",
+    "minecraft:pointed_dripstone",
+    "minecraft:big_dripleaf",
+    "minecraft:small_dripleaf"
+  ]
+}

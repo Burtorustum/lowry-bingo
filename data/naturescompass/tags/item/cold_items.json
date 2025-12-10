@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:snowball",
+    "minecraft:powder_snow_bucket",
+    "minecraft:tipped_arrow",
+    "minecraft:pink_petals",
+    "minecraft:slime_ball",
+    "minecraft:blue_orchid",
+    "minecraft:mangrove_roots",
+    "minecraft:goat_horn"
+  ]
+}

@@ -1,1 +1,14 @@
-{}
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:compass",
+    "#naturescompass:cave_items",
+    "#naturescompass:cold_items",
+    "#naturescompass:warm_items",
+    "#naturescompass:ocean_items"
+  ],
+  "result": {
+    "id": "naturescompass:naturescompass",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cactus",
+    "minecraft:cocoa_beans",
+    "minecraft:armadillo_scute",
+    "minecraft:red_sand",
+    "minecraft:cactus_flower",
+    "minecraft:acacia_leaves",
+    "minecraft:bamboo"
+  ]
+}
